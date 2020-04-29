@@ -1,6 +1,4 @@
-[project-title]: Mobile Pirate Game
-
-# [project-title]
+# Mobile Pirate Game
 
 A mobile pirate game, coming soon.
 
@@ -8,7 +6,7 @@ A mobile pirate game, coming soon.
 
 ### Prerequisites
 
-[project-title] is built using [Godot][https://godotengine.org/download/windows] game engine, version **3.1.2**.
+Mobile Pirate Game is built using [Godot][https://godotengine.org/download/windows] game engine, version **3.1.2**.
 
 ### Installing
 
